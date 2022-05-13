@@ -1,0 +1,11 @@
+{
+  "name": "gtransfer",
+  "version": "0.1.0",
+  "repository": "https://github.com/zoedsoupe/gtransfer",
+  "author": "zoedsoupe",
+  "license": "BSD-3-Clause",
+  "private": true,
+  "dependencies": {
+    "uikit": "^3.14.1"
+  }
+}
