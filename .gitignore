@@ -30,4 +30,4 @@ slack_ex-*.tar
 /.direnv/
 
 # Ignore node files
-/node_modules/
+/assets/node_modules/
